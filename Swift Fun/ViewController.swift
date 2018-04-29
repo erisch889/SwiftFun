@@ -4,6 +4,7 @@
 //
 //  Created by Erisch on 07.04.18.
 //  Copyright © 2018 Erisch. All rights reserved.
+// Hello I like Ginger Ale
 //
 
 import UIKit
@@ -23,6 +24,7 @@ class ViewController: UIViewController {
             view.backgroundColor = UIColor.red
         
             myLabel.text = "You hit it at least 10 times"
+            
             }
         
     }
